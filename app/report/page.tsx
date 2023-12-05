@@ -55,7 +55,7 @@ export default function Home() {
       }}>
         <Row justify="space-between">
           <Col style={{ margin: 'auto 0' }}>
-            MVST Manage System - 管理端
+            MVST Manage System - 上报端
           </Col>
           <Col>
             <Space size="large">
